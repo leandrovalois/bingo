@@ -9,8 +9,8 @@
     <!-- Círculo para mostrar números -->
     <TextView
         android:id="@+id/numberCircle"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:layout_gravity="center"
         android:background="@drawable/circle_background"
         android:gravity="center"
